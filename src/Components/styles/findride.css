@@ -1,0 +1,11 @@
+.banner4::before{
+    content: "";
+    position: absolute;
+    background: url('../images/banner4.jpg')  no-repeat center center/cover;
+    height: 642px;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    z-index: -1;
+    box-shadow: 0px 5px 20px grey;
+}
